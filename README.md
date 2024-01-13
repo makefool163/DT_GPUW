@@ -2,7 +2,7 @@ A python module with GPU acceleration dtw algorithm
 
 1. About it
  
-  This a CPU speed module for python.
+  This a GPU speed module for python.
   It has two special : CUDA and OpenCL.
 
 2. How to Use
